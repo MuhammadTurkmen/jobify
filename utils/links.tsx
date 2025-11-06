@@ -23,3 +23,5 @@ const links: NavLink[] = [
     icon: <AreaChart />,
   },
 ];
+
+export default links;
